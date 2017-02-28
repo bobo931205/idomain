@@ -26,6 +26,8 @@
         <module>springmvc-hibernate-01</module>
         <module>springmvc-mybatis-01</module>
         <module>mybatis01</module>
+        <module>redis01</module>
+        <module>spring-redis-01</module>
     </modules>
 
 
